@@ -5,4 +5,6 @@ make
 ```
 
 and then start with
-`./harfbuzz-test.app/Contents/MacOS/harfbuzz-test`
+```
+./harfbuzz-test.app/Contents/MacOS/harfbuzz-test
+```
