@@ -1,10 +1,5 @@
-To compile run
+To compile and run:
 ```
-qmake
-make
-```
-
-and then start with
-```
-./harfbuzz-test.app/Contents/MacOS/harfbuzz-test
+node-gyp rebuild
+./build/Release/harfbuzz-test
 ```
