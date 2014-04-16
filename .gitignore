@@ -1,3 +1,1 @@
-Makefile
-*.o
-harfbuzz-test.app
+build
